@@ -10,8 +10,8 @@
   <li>billions of chips will make a network, which allocates resources & tasks to people.
   <ol><li>There will be 2 data blocks in each chip.
     <ol>
-      <li>###Individualdata###</li>
-      <li>###worlddata###</li></ol></li>
+    <li><b>Individualdata</b></li>
+      <li><b>worlddata</b></li></ol></li>
     <li>f</li>
     <li>f</li></ol></li></ul>
 
