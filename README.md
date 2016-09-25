@@ -14,7 +14,7 @@
       <li><b>Worlddata(wdata):</b> All of the individual data & environment data required to make decisions. Every one will have a complete copy of world data on their chip. It will update at regular intervals. Individual will not be identifiable in world data.</li></ol></li>
     <li> When users take off the chip it stops recording, unless the user instructs otherwise.</li>
     <li><br><img src="http://i.imgur.com/fK1wbGB.jpg"> is our idea of data security, needs improvement.</li></ol></li>
-  <li>## According to need from worlddata & fitness, skills, emotional state from individual data, people will be allocated mandatory tasks<ol>
+  <li><h3>According to need from worlddata & fitness, skills, emotional state from individual data, people will be allocated mandatory tasks</h3><ol>
     <li></li>
     <li></li></ol></li>
   <li> Software update policies have not been figured out yet. But people are free to download,change & experiment with the code of the system on their own devices & suggest changes.</li></ul>
