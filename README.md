@@ -24,7 +24,7 @@
   <li> Still unsure how to involve those who can not work, suggestions needed.</li>
   <li> Software update policies have not been figured out yet. But people are free to download,change & experiment with the code of the system on their own devices & suggest changes.</li></ul>
 # This thing could take generations to get going, many probably wont live long enough to see their baby in action, this is an idea to unify the people, efficiently & without violence. We only ask you to set things in motion & ensure the plan stays in motion.
-### When we are unified, we can focus on our future, politicians will not exist & thus will not change history to suit their needs, much has been lost to their actions. By focusing on the future i mean the sun will make earth unlivable in a few million years, how do we save/preserve as many species as possible, how do we get every one out, where do we stay. The universe in dying, how do we avoid/bypass that. We want humans to survive.
+When we are unified, we can focus on our future, politicians will not exist & thus will not change history or the idea of whats important at the moment to suit their needs, much has been lost to their actions. By focusing on the future i mean the sun will make earth unlivable in a few million years, how do we save/preserve as many species as possible, how do we get every one out, where do we stay. The universe in dying, how do we avoid/bypass that. We want humans to survive.
 ##stage 1:##
 <ol><li> doing what we can with present tech</li>
   <li> inventing new tech if needed</li>
@@ -33,4 +33,9 @@
   <li> test with 1000-10000 people</li>
   <li> steps 3 & 4 repeated</li></ol>
 ##stage 2:##
-After things work out well
+After things work out well in stage1, we give the chips to everyone.
+Governments & corporations become obsolete.
+R&D for the next level begins which may or may not involve<ol>
+  <li></li>
+  <li></li>
+  <li></li></ol>
