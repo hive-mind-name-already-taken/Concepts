@@ -17,8 +17,9 @@
   <li><h2>According to need from worlddata & fitness, skills, emotional state from individual data, people will be allocated mandatory tasks</h2><ol>
     <li> It involves farming, cleaning sewers, maintaining facilities.</li>
     <li> Everyone is taught how to farm.</li>
-    <li> There is a basic level, everyone gets healthy food, water, bathroom, room, bed, medical services, education.</li>
-    <li> Doing mandatory tasks, u get the food u want, more electricity & resources.</li></ol></li>
+    <li> Doing most of your mandatory tasks you get healthy food, water, bathroom, room, bed, medical services, education.</li></ol></li>
+  <li> In the same way "what you are good at" tasks will b assigned. Completing these you will get more resources.</li>
+  <li> With the resources you recieve according to your orders, you get to do "what you like" tasks</li>
   <li> Software update policies have not been figured out yet. But people are free to download,change & experiment with the code of the system on their own devices & suggest changes.</li></ul>
 # This thing could take generations to get going, many probably wont live long enough to see their baby in action, this is an idea to unify the people, we only ask you to set things in motion & ensure the plan stays in motion.
 ##stage 1:##
