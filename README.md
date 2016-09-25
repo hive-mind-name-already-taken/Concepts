@@ -12,7 +12,18 @@
     <ol>
     <li><b>Individualdata(idata):</b> Chip records every data & experience of the individual. Experience can be shared. You can send the doctor how feel. <a href="https://www.ted.com/talks/greg_gage_how_to_control_someone_else_s_arm_with_your_brain?language=en#t-100356">Tedtalk</a> & <a href="https://www.youtube.com/watch?v=rSQNi5sAwuc">youtube link of plausibilty</a><br>The recipient can tone it down or up as needed.</li>
       <li><b>Worlddata(wdata):</b> All of the individual data & environment data required to make decisions. Every one will have a complete copy of world data on their chip. It will update at regular intervals. Individual will not be identifiable in world data.</li></ol></li>
-    <li>When users take off the chip it stops recording, unless the user instructs otherwise.</li>
-    <li><br><img src="http://i.imgur.com/fK1wbGB.jpg"> is our idea of data security, needs improvement.</li></ol></li></ul>
-
+    <li> When users take off the chip it stops recording, unless the user instructs otherwise.</li>
+    <li><br><img src="http://i.imgur.com/fK1wbGB.jpg"> is our idea of data security, needs improvement.</li></ol></li>
+  <li>## According to need from worlddata & fitness, skills, emotional state from individual data, people will be allocated mandatory tasks<ol>
+    <li></li>
+    <li></li></ol></li>
+  <li> Software update policies have not been figured out yet. But people are free to download,change & experiment with the code of the system on their own devices & suggest changes.</li></ul>
+# This thing could take generations to get going, many probably wont live long enough to see their baby in action, this is an idea to unify the people, we only ask you to set things in motion & ensure the plan stays in motion.
 ##stage 1:##
+<ol><li> doing what we can with present tech</li>
+  <li> inventing new tech if needed</li>
+  <li> testing, tuning, live use by researchers, debuging, hacking, updating</li>
+  <li> figuring out policies, rules & regulations</li>
+  <li> test with 1000-10000 people</li>
+  <li> steps 3 & 4 repeated</li></ol>
+  
