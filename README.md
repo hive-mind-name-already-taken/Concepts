@@ -19,7 +19,9 @@
     <li> Everyone is taught how to farm.</li>
     <li> Doing most of your mandatory tasks you get healthy food, water, bathroom, room, bed, medical services, education.</li></ol></li>
   <li> In the same way "what you are good at" tasks will b assigned. Completing these you will get more resources.</li>
-  <li> With the resources you recieve according to your orders, you get to do "what you like" tasks</li>
+  <li> With the resources you recieve according to your orders, you get to do "what you like" tasks.</li>
+  <li> <b>Mandatory tasks will take 3 of 7 works slots/week.</b> The other tasks depend on your skills, memories, feelings & availability of resources.</li>
+  <li> Still unsure how to involve those who can not work, suggestions needed.</li>
   <li> Software update policies have not been figured out yet. But people are free to download,change & experiment with the code of the system on their own devices & suggest changes.</li></ul>
 # This thing could take generations to get going, many probably wont live long enough to see their baby in action, this is an idea to unify the people, we only ask you to set things in motion & ensure the plan stays in motion.
 ##stage 1:##
