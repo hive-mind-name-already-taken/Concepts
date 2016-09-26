@@ -18,8 +18,8 @@ Notes:-
    * ![This]("http://i.imgur.com/fK1wbGB.jpg") is our idea of data security, needs improvement.
    * According to need from worlddata & fitness, skills, emotional state from individual data, people will be allocated mandatory tasks
    * It involves farming, cleaning sewers, maintaining facilities.
-   * Everyone is taught how to farm, like one is taught to buy stuff from the market today.
-   * The mandatory tasks are required to be done by all - rescheduling is allowed, but only a limited no. of times, so that no one can shirk their duties. Thus, everyone does what they're required to do. Tasks will be assigned based on interests & capabilities of people, recognized through the n-chips.
+   * Everyone learns how to farm, like one is taught to buy stuff from the market today.
+   * The mandatory tasks are required to be done by all - rescheduling is allowed, but only a limited no. of times, so that no one can shirk their duties. Thus, everyone does what they're required to do. Tasks will be assigned based on interests & capabilities of people, recognized through the n-chips. Of course, if anyone is passionate about the tasks, then he/she can be involved into it and the if the number of such people are found to be enough, the task would surely be removed from the list of mandatory tasks; just skeptical because of current works scenarios. Two things though: farms alongside being the farms that we're used to see, on large tracts of land, can be rooftop or artificially enclosed farms inside buildings, like vertical farms; and second, robots would definitely be working, alongside humans, or more than humans on the mandatory duties.
    * Software updates OTA or by flashing. People are free to download, change & experiment with the code of the system on their own devices & suggest changes, as in any FOSSS model.
 	 * The individual chips can be hacked by the users, so that they control the chips and not the other way around.
 
