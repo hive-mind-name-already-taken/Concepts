@@ -2,12 +2,13 @@
 
 ***A decentralised adaptive network for task & resource allocation for the human population***
 
-Everyone will be able to obtain a n-chip,for one-self. The n-chips will be be a user removable, BCI conncecting an individual's brain to a high-speed memory device containing thoughts & ideas to be processed. Billions of n-chips will form a global network, which shares individual thoughts to create a collective - the hive.
+Everyone will be able to obtain a n-chip,for one-self. The n-chips will be be a user removable, BCI ( brain computer interface) conncecting an individual's brain to a high-speed memory device containing thoughts & ideas to be processed. Billions of n-chips will form a global network, which shares individual thoughts to create a collective - the hive.
+We prefer making the chip wearable than an implant.
 
 There will be *TWO* data blocks in each chip, they being:
 
 1. **Individual Data (idata)**: Chips record every datum & experience of the individual and depending on user's choices, sends data to the global network. The individual data can't be deleted without the individual giving write access to it. Of course, it can be read. Thus, it'll enable thoughts & experiences to be shared - directly.
-    Experience can be shared individually, like one can send the doctor how one feels. This [TED-Talk]("https://www.ted.com/talks/greg_gage_how_to_control_someone_else_s_arm_with_your_brain?language=en) gives a sketchy idea of how. The recipient can tone it down or up as needed.
+    Experience can be shared individually, like one can send the doctor how one feels. This <a href="https://www.ted.com/talks/greg_gage_how_to_control_someone_else_s_arm_with_your_brain?language=en">TED-Talk</a> & <a href="">Youtube</a> gives a sketchy idea of how. The recipient can tone it down or up as needed.
 
 	Or it may be shared globally through world data, described below.
 		
@@ -15,8 +16,8 @@ There will be *TWO* data blocks in each chip, they being:
 	
 Notes:-
 
-   * ![This]("http://i.imgur.com/fK1wbGB.jpg") is our idea of data security, needs improvement.
-   * According to need from worlddata & fitness, skills, emotional state from individual data, people will be allocated mandatory tasks
+   * <img src="http://i.imgur.com/fK1wbGB.jpg"> is our idea of data security, needs improvement.
+   * According to need from worlddata & fitness, skills, emotional state from individual data, people will be allocated <b>mandatory tasks</b>
    * It involves farming, cleaning sewers, maintaining facilities.
    * Everyone learns how to farm, like one is taught to buy stuff from the market today.
    * The mandatory tasks are required to be done by all - rescheduling is allowed, but only a limited no. of times, so that no one can shirk their duties. Thus, everyone does what they're required to do. Tasks will be assigned based on interests & capabilities of people, recognized through the n-chips. Of course, if anyone is passionate about the tasks, then he/she can be involved into it and the if the number of such people are found to be enough, the task would surely be removed from the list of mandatory tasks; just skeptical because of current works scenarios. Two things though: farms alongside being the farms that we're used to see, on large tracts of land, can be rooftop or artificially enclosed farms inside buildings, like vertical farms; and second, robots would definitely be working, alongside humans, or more than humans on the mandatory duties.
