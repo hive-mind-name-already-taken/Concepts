@@ -16,7 +16,7 @@ There will be *TWO* data blocks in each chip, they being:
 	
 Notes:-
 
-   * <img src="http://i.imgur.com/fK1wbGB.jpg"> is our idea of data security, needs improvement.
+   * <br/><img src="http://i.imgur.com/fK1wbGB.jpg"><br/> This is our idea of data security, needs improvement.
    * According to need from worlddata & fitness, skills, emotional state from individual data, people will be allocated <b>mandatory tasks</b>
    * It involves farming, cleaning sewers, maintaining facilities.
    * Everyone learns how to farm, like one is taught to buy stuff from the market today.
