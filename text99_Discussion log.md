@@ -237,5 +237,79 @@ Arkoprovo Ghosh
 using laptop
 
 12:23am
+Tuhin Jana<br/><img src="https://fbcdn-photos-a-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-0/p280x280/14483914_1185260828201907_1734751889_n.jpg?oh=c330e905f56c22cd9b83f44cc8550020&oe=57EEF82E&__gda__=1475198456_def2d5d576b6be689f6c6fd8bfed03fb"/><br/>
+
+12:24am
+Arkoprovo Ghosh
+yes .. but individuals can be tapped .. just like they can be caught on tape .. you know
+a person doing a mitm from near the other guy
+
+12:25am
 Tuhin Jana
-<img src="https://fbcdn-photos-a-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-0/p280x280/14483914_1185260828201907_1734751889_n.jpg?oh=c330e905f56c22cd9b83f44cc8550020&oe=57EEF82E&__gda__=1475198456_def2d5d576b6be689f6c6fd8bfed03fb"/><br/>
+mitm ?
+
+12:26am
+Arkoprovo Ghosh
+man in the middle
+
+12:27am
+Tuhin Jana
+they'll hv 2 get a room :P
+the need for privacy & secrecy will b lower
+there wont b any govt. or corporation
+
+12:28am
+Arkoprovo Ghosh
+i know that
+i meant .. say terrorist organizations or gangs
+
+12:31am
+Tuhin Jana
+without the existence of money dat wont b much of a prob either
+
+12:32am
+Arkoprovo Ghosh
+um .. no like .. there will be say team leaders right, for various tasks
+
+12:33am
+Tuhin Jana
+aaand ?
+
+12:35am
+Arkoprovo Ghosh
+so if say they're onto something, like say a matter antimatter reactor ... a gang can use the chip to sabotage the project and create their own version and create a monetary system by denying people that
+
+12:35am
+Tuhin Jana
+i gotta go
+will talk tomorrow
+
+12:36am
+Arkoprovo Ghosh
+sleepy?
+actually ... one must always be prepared for an attack on the system
+like .. BSD licence .. it just gave stuff away for free ... Jobs took it and the rest is history .. 
+on the other hand, GNU GPL and Creative Commons licenses .. they have clauses to protect their system .. open patenting too
+that's my point
+Saturday
+
+1:51pm
+Tuhin Jana
+the network will decide & control who gets what, delivered by robots/ conveyer
+
+2:28pm
+Arkoprovo Ghosh
+er?
+
+2:46pm
+Tuhin Jana
+avoiding "so if say they're onto something, like say a matter antimatter reactor ... a gang can use the chip to sabotage the project and create their own version and create a monetary system by denying people that"
+
+3:01pm
+Arkoprovo Ghosh
+hmm ... but hey .. i feel i got it .. wifi chips are a good idea .. but the chips can be hacked by users .. so wifi on & off whenever needed
+
+3:04pm
+Tuhin Jana
+what of the drawing i made man
+the share block cant send any request to indiv data block<br/><img src="https://fbcdn-photos-a-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-0/p280x280/14483914_1185260828201907_1734751889_n.jpg?oh=c330e905f56c22cd9b83f44cc8550020&oe=57EEF82E&__gda__=1475198456_def2d5d576b6be689f6c6fd8bfed03fb"><br/>
