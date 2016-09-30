@@ -817,3 +817,108 @@ we gotta test dat 1st, after phase 1(check concept file) gets off the ground
 
 6:30pm
 Arkoprovo Ghosh<br/>
+<br/>checking file
+
+6:30pm
+Tuhin Jana<br/>
+akhono likhini phase 1 :P
+
+6:30pm
+Arkoprovo Ghosh<br/>
+saw
+
+6:31pm
+Arkoprovo Ghosh<br/>
+https://www.ted.com/talks/greg_gage_how_to_control_someone_else_s_arm_with_your_brain?language=en this is the thing i fear
+
+6:33pm
+Tuhin Jana<br/>
+dats only for experience sharing with the doc or whomever u want 2 share it
+
+6:34pm
+Arkoprovo Ghosh<br/>
+yes ... but the hive, since it's morphing a person's brain, can also control the body
+
+6:38pm
+Tuhin Jana<br/>
+the chip mainly records. the network wont hv write access 2 indiv data, this cd b an issue only during experince sharing, think of a work around. <br/>
+experience sharing: ur barin feels others' pain, bt body wont move
+
+6:40pm
+Arkoprovo Ghosh<br/>
+ok<br/>
+i think the idea is great<br/>
+just one thing<br/>
+say a 10000 billion people are on the network. if most of them are biased, then any minority will also become biased. ... because the probes maybe via spine, are writing to and reading from the brain<br/>
+there's no privacy involved when the people are connected. <br/>
+and you can read a person's pain unless the block can write to the brains<br/>
+*can't<br/>
+wait ... you mean the wdata is what people will read? <br/>
+it's ok then .... that'd be like opening one's third eye
+
+6:52pm
+Tuhin Jana<br/>
+there was i time i used 2 think of involving every species we dnt eat into the network & humans always feeling the physical sensations of whom u r interacting with, so no1 will hurt any1. u point out how much homework i left out :P. give me time, i'll answer
+
+6:53pm
+Arkoprovo Ghosh<br/>
+ok .. :) <br/>
+yes ... that's a good way but then, it's not always that it'll happen exactly like that .. like if say, too many like mined people r on the network, the feelings won't be just feelings, they'd be trainers<br/>
+so u know .. the individual would not be able to think for oneself and decide ... because there's no privacy<br/>
+but if, it's made like a social network, so one can get an OOBE, one can learn and shut oneself off .. and think and decide<br/>
+what say? <br/>
+actually, when doing this, you should think from the perspective of an individual ... that'd make things more secure
+:)
+7:04pm<br/>
+Arkoprovo Ghosh<br/>
+like the way one can be exploited and one can exploit ... both sides ...because one glitch here can mean that the entire human species gets controlled
+
+7:04pm
+Tuhin Jana<br/>
+i kinda get the idea why this idea did not take off very well
+
+7:05pm
+Arkoprovo Ghosh<br/>
+which?
+
+7:07pm
+Tuhin Jana<br/>
+hive mind. it only works for ants & bees. shit gets complicated while applied to humans. So much homework u point out, all valid
+
+7:07pm
+Arkoprovo Ghosh<br/>
+Actually our brain is a hive mind<br/>
+but no ... we just need to think, experiment and implement<br/>
+it's a great idea<br/>
+and to tell the truth, it's already in action .. only in a much slower pace
+
+7:08pm
+Tuhin Jana<br/>
+i ddnt say i wont do the homewoek :P<br/>
+*homework<br/>
+where ?
+
+7:09pm
+Arkoprovo Ghosh<br/>
+social networks<br/>
+only not to the extent we're thinking
+
+9:37pm
+Tuhin Jana<br/>
+check the concepts & edit it in a branch
+
+9:50pm
+Arkoprovo Ghosh<br/>
+ok .. :)
+
+Monday,26/912:11am
+Tuhin Jana<br/>
+how do u like the organisation profile pic :P
+
+12:16am
+Arkoprovo Ghosh<br/>
+good<br/>but send another ... too small there ... i was thinking the diagram .. sorry .. i couldn't see the one on gitter
+
+12:26am
+Tuhin Jana<br/><img src=”http://i.imgur.com/sNxiP37.jpg”><br/>
+it is this it is this it is this
