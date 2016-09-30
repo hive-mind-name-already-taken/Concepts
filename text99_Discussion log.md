@@ -237,7 +237,7 @@ Arkoprovo Ghosh<br/>
 using laptop
 
 12:23am
-Tuhin Jana<br/><img src="https://fbcdn-photos-a-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-0/p280x280/14483914_1185260828201907_1734751889_n.jpg?oh=c330e905f56c22cd9b83f44cc8550020&oe=57EEF82E&__gda__=1475198456_def2d5d576b6be689f6c6fd8bfed03fb"/><br/>
+Tuhin Jana<br/><img src="http://i.imgur.com/EYOpUZs.jpg"/><br/>
 
 12:24am
 Arkoprovo Ghosh<br/>
