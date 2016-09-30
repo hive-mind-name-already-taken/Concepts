@@ -434,7 +434,7 @@ in github, i sent invite 2 u 2 join hive-mind-name-already-taken
 
 9:48pm
 Arkoprovo Ghosh<br/>
-very nice m name!!! -_-<br/>
+very nice name!!! -_-<br/>
 
 Sunday,9/25, 2:49pm
 Tuhin Jana<br/>
@@ -514,3 +514,306 @@ now if you're using people's brain power like you said, since the brain is an or
 so like once the collective controls a muscle, nothing can stop it from sending the original personality to the background forever<br/>
 got it? <br/>
 like controlled dissociative identity disorder
+
+3:27pm
+Tuhin Jana<br/>
+ok
+
+3:27pm
+Arkoprovo Ghosh<br/>
+what?
+
+3:29pm
+Tuhin Jana<br/>
+i understood what u meant, now processing its links 2 how processors work<br/>
+then also those chapters of neural network of last semester
+
+3:31pm
+Arkoprovo Ghosh<br/>
+um ... i don't know .. chapters of neutral network last semester
+
+3:32pm
+Tuhin Jana<br/>
+amader last sem e 6ilo
+
+3:33pm
+Arkoprovo Ghosh<br/>
+yes ... so what did they say?
+
+3:37pm
+Tuhin Jana<br/>
+not much, a virtual network of 'neurons' wd work as they r trained 2<br/>
+there r diff types of training<br/>
+1 is where u jst tell 'em ifo/p is wrong or not repetitively, the network adjusts the gains of its axons & dendrons accordingly<br/>
+another was user sets the gains & checks if they r correct<br/>
+another was the network checks the o/p with a reference & corrects it self<br/>
+the neurons dnt do much after they r trained, they only remain the connecting nodes among axons & dendrons
+
+3:45pm
+Arkoprovo Ghosh<br/>
+yes<br/>
+that's the cellular automata part ... i don't know much ... but that's the way they work .. I'm also talking about how they train themselves<br/>
+that hypothesis<br/>
+the last one yes<br/>
+that's how we learn right?
+
+3:48pm
+Tuhin Jana<br/>
+with rat brains flying fighter planes in simulators, its sugar rewards :P
+
+3:48pm
+Arkoprovo Ghosh<br/>
+true that
+
+3:56pm
+Tuhin Jana<br/>
+we train till we die, thinking how
+
+3:56pm
+Arkoprovo Ghosh<br/>
+yes
+
+3:56pm
+Tuhin Jana<br/>
+sorroundings
+
+3:57pm
+Arkoprovo Ghosh<br/>
+hmm
+
+3:59pm
+Tuhin Jana<br/>
+we jst want them feel good internal hormone rewards, our interaction with surroundings(including our own body) guides it<br/>
+thinking 'how'
+
+4:02pm
+Arkoprovo Ghosh<br/>
+hmm .. i always think that it's due to evolution - the rewards morphed to what they are due to evolutionary chaos
+
+4:03pm
+Tuhin Jana<br/>
+do we intend 2 copy ?
+
+4:03pm
+Arkoprovo Ghosh<br/>
+um .. like?
+
+4:05pm
+Tuhin Jana<br/>
+may b we do, the world data wd fucntion like that, but the training nvr stops
+
+4:06pm
+Arkoprovo Ghosh<br/>
+come again ...
+
+4:08pm
+Tuhin Jana<br/>
+the network wd get rewards for doing good, so the action is repeated for similar i/p<br/>
+doing good : max people healthy, fit & functioning, environment doing well, enuf food storage/production, most people getting 2 do "what u like tasks" more often
+
+4:11pm
+Arkoprovo Ghosh<br/>
+um ... I'm not talking about that<br/>
+it's just that using people's brain .. aka write access can create a multiple personality disorder<br/>
+because brains can't be disconnected from muscles<br/>
+except a workaround
+
+4:15pm
+Tuhin Jana<br/>
+how abt blocking write access 2 memory ? <br/>
+nah, our aint built like modules
+
+4:16pm
+Arkoprovo Ghosh<br/>
+um .. neurons work differently .. <br/>
+yeah<br/>
+all stuff together<br/>
+v dangerous
+
+4:17pm
+Tuhin Jana<br/>
+ok, not working on semi OMAR plans yet
+
+4:17pm
+Arkoprovo Ghosh<br/>
+hmm<br/>
+but the rest of it is a great idea ...telepathy et al ..global memories too
+
+4:18pm
+Tuhin Jana<br/>
+well with that issue set aside, how does the network update itself for better results after programmers r dead ?
+
+4:19pm
+Arkoprovo Ghosh<br/>
+um .. what do u mean programers are dead?
+
+4:20pm
+Tuhin Jana<br/>
+& how 2 set limits 2 updating, so we dnt hv solas taking town the system dragon age style 2 save people
+
+4:20pm
+Arkoprovo Ghosh<br/>
+actually i can't totaly get what the whole concept/plan is ... that's why i told you to write it up in that concepts file<br/>
+lemme read the storylines of dragon age & mass effect .. i guess then i can understand
+
+4:21pm
+Tuhin Jana<br/>
+no need, i'm making the page, pujor por pabi<br/>
+u hv stuff 2 do, my page will save time<br/>
+where is the concepts file ?
+
+4:22pm
+Arkoprovo Ghosh<br/>
+um .. page? <br/>
+github
+
+4:23pm
+Tuhin Jana<br/>
+sobai dekhte pabe to
+
+4:23pm
+Arkoprovo Ghosh<br/>
+whole world
+
+4:24pm
+Tuhin Jana<br/>
+a big somewhat interactive timeline page spanning 5 fiction serieses<br/>
+well if u say so
+
+4:25pm
+Arkoprovo Ghosh<br/>
+bujhlaam na thik
+
+4:26pm
+Tuhin Jana
+the explanatory page, pujor por pabi
+
+4:27pm
+Arkoprovo Ghosh<br/>
+ok
+
+5:43pm
+
+actually ... i didn't understand one thing .. like your final goal
+
+Tuhin Jana<br/>
+the universe is dying, how 2 avoid/bypass that
+
+Arkoprovo Ghosh<br/>
+universe? <br/>
+you mean big chill?
+
+5:44pm
+Tuhin Jana<br/>
+yup
+
+5:44pm
+Arkoprovo Ghosh<br/>
+um ..... actually it's not<br/>
+dark energy
+
+5:45pm
+Tuhin Jana<br/>
+whatever, stuff is gonna expand & matter will break apart
+
+5:46pm
+Arkoprovo Ghosh<br/>
+not so sure about that<br/>
+need to learn n more
+
+5:52pm
+Tuhin Jana<br/>
+that wd b very comforting if u cd convince me that stuff will not expand enuf that no molucles cd interact & life will not b gone. untill then, i'll try 2 unify us. when unified, all of us will b focused on these problems<br/>
+1) sun is dying, we gotta make home somewhere else. how do we preserve every other species if we can<br/>
+2) universe is dying, how do u avoid. bypass that
+
+5:53pm
+Arkoprovo Ghosh<br/>
+um .. i too want unification<br/>
+universe is dying ... no idea ... noob there because you can't control the universe .. we know too little and i even less<br/>
+sun .... go to another star system or live in a giant spaceship<br/>
+i mean .. that's how i see the future .. people in a spaceship<br/>
+and unless people are united, you'll be having a departure like in the movie 2012
+
+5:56pm
+Tuhin Jana<br/>
+i want our species, to live forever, without politics erasing history ever
+
+5:56pm
+Arkoprovo Ghosh<br/>
+me too<br/>
+and i guess i hit the nail<br/>
+left part and right part both work differently<br/>
+now a human would be needing both all the time<br/>
+now during sleep, if somehow i can process info without training the neurons in my clients brain, then the hive mind would work<br/>
+otherwise, it'd all average out into a clone of one being throughout the world<br/>
+or maybe i just got you to square one again<br/>
+actually ... the hive mind concept is awesome .... but it's just that the hive might also wipe the individual or convert him completely .... the  problem isn't philosophical<br/>
+it's technological<br/>
+dissociative identity disorder is a real thing .... I'm just worried about that ... i guess I'm not getting it totally either<br/>
+i need to learn more
+
+6:08pm
+Tuhin Jana<br/>
+dnt call. write, let me finish the concept file 1st
+
+6:09pm
+Arkoprovo Ghosh<br/>
+ok
+
+Tuhin Jana<br/>
+individuality has 2 b protected<br/>
+if we r 2 remain the most savage & ingenious species
+
+6:10pm
+Arkoprovo Ghosh<br/>
+and I'm not against the idea ... I'm for it .. i just used to think in a less tech manner for today ... using existing technology ... just that direct interfacing with the brain needs more thinking<br/>
+um ... how is savage related to individuality? <br/>
+but you know .... i think we should experiment ... because thinking blankly won't help
+
+6:17pm
+Tuhin Jana<br/>
+hmm<br/>
+k<br/>
+:P
+
+6:17pm
+Arkoprovo Ghosh<br/>
+hmm<br/>
+you saw inception right?
+
+6:18pm
+Tuhin Jana<br/>
+yup
+
+6:19pm
+Arkoprovo Ghosh<br/>
+that's the thing I'm fearing ... because while sleeping, we're not fully conscious
+
+6:20pm
+Tuhin Jana<br/>
+& while sleeping some dude figured out how benzine looks
+
+6:20pm<br/>
+Arkoprovo Ghosh
+yes
+
+Tuhin Jana<br/>
+he dreamt of a snake eating itself
+
+Arkoprovo Ghosh<br/>
+i know the story of kekule
+
+6:27pm
+Arkoprovo Ghosh<br/>
+the idea is fascinating ... but i also wonder if the brain can take it ..... and what I'm against is that when you're doing stuff with part of the brain, the individual cannot decide
+
+6:28pm
+Tuhin Jana<br/>
+in the dragon age series only those having the reaper nanomachines in their bodies can access the fade (network) beyond the vail (firewal by solas) only when sleeping & dreaming. some dreamt themselves 2 death. <br/>
+i can see a few second long clippings of future situations i'll b in, camera location is my eyes. but i only remember them when facing the situation. used it a few times not 2 get caught. it makes me question the idea of time itself. <br/>
+ok ok we r not going 2 try using the brains processing power at large<br/>
+we gotta test dat 1st, after phase 1(check concept file) gets off the ground
+
+6:30pm
+Arkoprovo Ghosh<br/>
