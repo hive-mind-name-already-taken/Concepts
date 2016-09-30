@@ -313,3 +313,204 @@ hmm ... but hey .. i feel i got it .. wifi chips are a good idea .. but the chip
 Tuhin Jana<br/>
 what of the drawing i made man<br/>
 the share block cant send any request to indiv data block<br/><img src="http://i.imgur.com/EYOpUZs.jpg"><br/>
+
+3:10pm
+Arkoprovo Ghosh<br/>
+hmm .. what i meant was like passwords going haywire .. but then, isn't that why encryption exists?
+
+3:53pm
+Tuhin Jana<br/>
+u r a non gamer, u hvnt got the whole idea, but what we discussed r the percevable/plausible limits of tech<br/>
+parts of the rest r in the vdos<br/>
+in 2186 AD<br/>
+1) https://www.youtube.com/watch?v=77PNj0e_Iyk<br/>
+2) https://www.youtube.com/watch?v=e_JvTacJpcQ<br/>
+& a few hundred thousands of yrs later when the tech failed<br/>
+3) https://www.youtube.com/watch?v=qqDnKfXSBAc<br/>
+long explanatory webpage that i'm making will come later<br/>
+
+3:54pm
+Arkoprovo Ghosh<br/>
+
+4:19pm
+Tuhin Jana<br/>
+some hackers became powerful, controlling nano-machines 2 get shit done. then there was division, 'us' & 'them' & extinction level wars. few of the powerful tried 2 maintain peace, fenharel/dread wolf/god of rebellion/god of trickery/solas was the most devious among them. he made access 2 the network very limited & blocked out all the non-peaceful powerful people. it stopped the war but everything else sucked. <br/>
+related dialog: <br/>
+Inquisitor: How did they come to be remembered as gods? <br/>
+Solas: Slowly. It started with a war. War breeds fear. Fear breeds a desire for simplicity. Good and evil. Right and wrong. Chains of command. After the war ended, generals became respected elders, then kings, then finally gods
+
+4:21pm
+Arkoprovo Ghosh<br/>
+you know ... let's just sit and start from the start someday .... #extremelyConfused
+
+4:21pm
+Tuhin Jana<br/>
+jst watch the vdos in series
+
+4:21pm
+Arkoprovo Ghosh<br/>
+ok wait<br/>
+am deep into something right now .. you'll understand when i post
+
+4:23pm
+Tuhin Jana<br/>
+ok, 35 mins total for the vdos, so watch wen u hv time<br/>
+
+4:23pm
+Arkoprovo Ghosh<br/>
+ok ...
+
+8:25pm
+Tuhin Jana<br/>
+i got ur post vaguely, making a github account, quite clueless<br/>
+dnt tell me stuff unless i ask, i better try 2 figure it out myself<br/>
+
+8:25pm
+Arkoprovo Ghosh<br/>
+hmm ... ok<br/>
+actually ... am confused too
+
+8:26pm
+Tuhin Jana<br/>
+i'm a bit backdated & slow :P
+
+8:26pm
+Arkoprovo Ghosh<br/>
+no ... too far ahead
+
+9:05pm
+Tuhin Jana<br/>
+how to find u in github ?
+
+9:06pm
+Arkoprovo Ghosh<br/>
+Arkoprovo1996
+
+9:08pm
+Tuhin Jana<br/>
+tuhinrocks77
+
+9:08pm
+Arkoprovo Ghosh<br/>
+ok
+
+9:22pm
+Tuhin Jana<br/>
+found kong
+
+9:22pm
+Arkoprovo Ghosh<br/>
+no
+
+9:23pm
+Tuhin Jana<br/>
+dat was a statement not question<br/>
+this guy sunipkmukherjee
+
+9:23pm
+Arkoprovo Ghosh<br/>
+oh<br/>
+ok
+
+9:29pm
+Tuhin Jana<br/>
+making organisation 2 see how that works, will try 2 add u
+
+9:31pm
+Arkoprovo Ghosh<br/>
+sure
+
+9:39pm
+Tuhin Jana<br/>
+accept invite man
+
+9:42pm
+Arkoprovo Ghosh<br/>
+where?
+
+9:42pm<br/>
+Tuhin Jana
+in github, i sent invite 2 u 2 join hive-mind-name-already-taken
+
+9:48pm
+Arkoprovo Ghosh<br/>
+very nice m name!!! -_-<br/>
+
+Sunday,9/25, 2:49pm
+Tuhin Jana<br/>
+seen the videos ?
+
+2:52pm
+Arkoprovo Ghosh<br/>
+yesterday only
+
+2:52pm
+Tuhin Jana<br/>
+in the order i gave ?
+
+2:52pm
+Arkoprovo Ghosh<br/>
+yes
+
+2:53pm
+Tuhin Jana<br/>
+made any sense ?
+
+2:53pm
+Arkoprovo Ghosh<br/>
+none<br/>
+dragon age did<br/>
+mass effect no
+
+2:55pm
+Tuhin Jana<br/>
+did u get the 'what' part of mass effect ? <br/>
+not the 'why' & 'who'
+
+2:55pm
+Arkoprovo Ghosh<br/>
+yes ... war between man and machine .... answer ... merge both
+
+2:58pm
+Tuhin Jana<br/>
+& 'the' network was born<br/>
+which fucked up a few tens of thousand yrs b4 dragon age, after the events of elder scrolls game series. then politics changed history
+
+2:59pm
+Arkoprovo Ghosh<br/>
+ok ... so?
+
+3:01pm
+Tuhin Jana<br/>
+Notorious for the extent of their special nano-augmentation, the Omar are not fully individuals, rather, each Omar is crosslinked into one massive consciousness, achieved through the replacement of their frontal lobes with a wireless cortical interface. Thus, if something happens to an Omar, then all Omar will know about it and react accordingly http://deusex.wikia.com/wiki/Omar
+
+3:02pm
+Arkoprovo Ghosh<br/>
+yes ... collective intelligence<br/>
+but it does have limitations .. it removes individuality if compulsory<br/>
+like it's presented
+
+3:10pm
+Tuhin Jana<br/>
+dat we'll get 2 ater the initial chip idea is successful, i wanted 2 use sleeping people's brains processing power for world data<br/>
+& the individuality will b preserved cuz u'll only get notifications of if some1 nearby neeeds help
+
+3:12pm
+Arkoprovo Ghosh<br/>
+oh ... that's not collective Intel .. that's telepathy<br/>
+but wrt the first idea .. do u know what consciousness is?
+
+3:15pm
+Tuhin Jana<br/>
+adaptive response 2 external/internal stimuli & will of self preservation ? <br/>
+jst a bunch of electrical signals we need 2 copy :P
+
+3:18pm
+Arkoprovo Ghosh<br/>
+um .. u know cellular automata right? <br/>
+actually none knows .. but a strong belief is that the sharing of info between neurons in the brain in a graph create consciousness ..in steps ...like if i see a path to the right, the a neuron bound by it's choices, decides that it should poke the other neuron .. and do the chain goes<br/>
+so the neurons aren't state l aware .. but the collective is<br/>
+now if you're using people's brain power like you said, since the brain is an organic, it can lead to multiple personalities inside a person<br/>
+so like once the collective controls a muscle, nothing can stop it from sending the original personality to the background forever<br/>
+got it? <br/>
+like controlled dissociative identity disorder
