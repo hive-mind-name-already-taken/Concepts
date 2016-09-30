@@ -920,5 +920,5 @@ Arkoprovo Ghosh<br/>
 good<br/>but send another ... too small there ... i was thinking the diagram .. sorry .. i couldn't see the one on gitter
 
 12:26am
-Tuhin Jana<br/><img src=”http://i.imgur.com/sNxiP37.jpg”><br/>
+Tuhin Jana<br/><img src="http://i.imgur.com/sNxiP37.jpg"/><br/>
 it is this it is this it is this
