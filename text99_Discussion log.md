@@ -922,3 +922,128 @@ good<br/>but send another ... too small there ... i was thinking the diagram .. 
 12:26am
 Tuhin Jana<br/><img src="http://i.imgur.com/sNxiP37.jpg"/><br/>
 it is this it is this it is this
+
+12:26am
+Arkoprovo Ghosh<br/>
+oh .. gr8<br/>
+um .. hey .. the ppl who do more get more should be scraped .. <br/>
+it can lead to unjust hierarchy
+
+12:30am<br/>
+Tuhin Jana
+there was this story of a bunch of students who were told their marks will b summed & divided equally among them. so the lazy 1s stopped studying. then, seeeing the fall of marks the high scoring ones stopped studying, then every1 failed
+
+12:31am
+Arkoprovo Ghosh<br/>
+just one thing .. why r u using html? <br/>
+i know<br/>
+just there's a flaw in the expt<br/>
+a huge flaw
+
+12:31am
+Tuhin Jana<br/>
+i also said some unjustness has 2 stay<br/>
+cuz i know html :P<br/>
+flaw is ?
+
+12:31am
+Arkoprovo Ghosh<br/>
+that unjustness would rip the system<br/>
+it assumed that money = marks<br/>
+money : secures our basic needs<br/>
+marks: opportunities and fame<br/>
+hell and heaven difference between the two<br/>
+that's the the prof didn't understand<br/>
+the problem is 99% of the world isn't even aware of the hacker culture ... so these garbage
+
+12:34am
+Tuhin Jana<br/>
+how do we get people 2 do more than mandatory ? i know i'd do nothing & play games. but if i hv 2 work 4 hours 2 play 4 12 hrs, i'm like well thats do-able
+
+12:34am
+Arkoprovo Ghosh<br/>
+simple<br/>
+honour rewards<br/>
+like i said in my post ... the btc one<br/>
+& i still can't understand why you're going for this tribe & non-tribe stuff<br/>
+like 1st thing is that there's no country or monetary system right? <br/>
+to say, look how nicely FOSS develops .. yet, there's no mandate
+
+12:39am
+Tuhin Jana<br/>
+ach6a abr pore dekhbo kaal. If something wipes us out, they'd b backup, they can survive more. it has happened a few times already<br/>https://www.youtube.com/watch?v=VEaXhRb-8e8 1 hr 12 min <br/>The Anoncast Episode 8 - Graham Hancock<br/>
+
+12:40am
+Arkoprovo Ghosh<br/>
+um ... Tuhin da, that system restore point concept will itself destroy the system
+
+12:41am
+Tuhin Jana<br/>
+their senses r sharper, can tell water is saltier on which side of the boat, the senses we lost cuz civilisation
+
+12:42am
+Arkoprovo Ghosh<br/>
+um ... no ... that's not because of civilization ... that's because of regal hierarchy<br/>
+it was only berceuse we're in a system that needed rulers
+
+12:42am
+Tuhin Jana<br/>
+we didnt use the senes, they got dull
+
+12:43am
+Arkoprovo Ghosh<br/>
+actually ... not really<br/>
+scouts are given such training<br/>
+it's just that ... it's not present among all
+
+12:44am
+Tuhin Jana<br/>
+ok, then every1 capable gets that training too<br/>
+bye now
+
+12:44am
+Arkoprovo Ghosh<br/>
+everyone who chooses<br/>
+see .. the real reason tribal arts died amongst us is not because it lacked need ... it's just that people with money wished to show themselves that they're superior<br/>
+like<br/>
+the American Indians<br/>
+they had no fixed time meals and identified 5 genders<br/>
+but colonists to make themselves different, due to their ego, racist views and all followed the unscientific timed meal system and then bisexual nature<br/>
+you know about sole? (self organized learning environment) <br/>
+that's what can be used and anyway, it's believed to be the future of education
+
+4:22am<br/>
+the reasons for my commits<br/>
+1. the human brain if fed with info, can't take it .. like a PC whose RAM & swap is overloaded ... <br/>
+2. stop thinking of controlling humans ... that's the very reason all problems exist .... <br/>
+3. every individual has a choice unless that choice directly interferes with another individual's basic needs, which includes personal freedom<br/>
+4. no .. the universe isn't going to die .... it doesn't work like that .... the sun is and we need to leave the planet together, not based on certain people's choices of who should leave and who shouldn't<br/>
+5. i guess you're aware, but still, read the GNU GPL, history of free software, open patenting, again<br/>
+
+8:37am
+Tuhin Jana<br/>
+i get the idea of honor reward now, cuz why else am i doing it ? <br/>
+but the general public aint like that, how 2 we change that ?
+
+8:43am
+Tuhin Jana<br/>
+not using the brains processing power, chill<br/>
+only thing u gotta do mandatories, 3 days a week, thats all the control needed
+
+11:16am
+Arkoprovo Ghosh<br/>
+yes ... for that i say, the same things people do to say us: social isolation ....like contests and festivals can be organized for people ... quizzes to everything else<br/>
+of course, if one doesn't do his duties, after a long time, he won't be receiving stuff at all<br/>
+like food<br/>
+actually I wish to do something on the nature of the GNU GPL because it's to cleverly crafted, it's not doing anything against it's goals and is still successfully working<br/>
+though one more thing ... i don't think that much manpower is needed (3/7 of a week) ... because we'll also be using robots to aid humans<br/>
+i hope u saw my concept.md .. pull request too
+
+11:33am
+Arkoprovo Ghosh<br/>
+committed concept. md again<br/>
+
+11:36am
+Arkoprovo Ghosh<br/>
+& controlling people i meant the concept of tribe and non tribe .. those kinds ... that's a disaster, trust me ....when our chipped people fail, they'll only work as an alternative civilization working their own way<br/>
+and more than that, they'd be involved in direct confrontations because chipped will think them to be inferior and the global sentiment can cause wars
