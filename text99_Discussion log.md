@@ -1047,3 +1047,175 @@ committed concept. md again<br/>
 Arkoprovo Ghosh<br/>
 & controlling people i meant the concept of tribe and non tribe .. those kinds ... that's a disaster, trust me ....when our chipped people fail, they'll only work as an alternative civilization working their own way<br/>
 and more than that, they'd be involved in direct confrontations because chipped will think them to be inferior and the global sentiment can cause wars
+
+Tuesday ,9/27, 11:52pm Tuhin Jana<br/>
+https://www.brainpickings.org/2016/09/26/the-hidden-life-of-trees-peter-wohlleben/<br/>
+AJC Bose said similar stuff in abyokto
+
+12:30am
+Arkoprovo Ghosh<br/>
+checking
+
+Wednesday,9/28, 7:07pm
+Tuhin Jana<br/>
+i think for those who can't do mandatory tasks due to old age, accident, medical condition, disease their chips will b more contributing 2 server side<br/>
+also prosthetic limbs will b filled with server components
+
+7:08pm
+Arkoprovo Ghosh<br/>
+Yup
+
+7:08pm
+Tuhin Jana<br/>
+same for dead people chips<br/>
+indiv will b turned off
+
+7:09pm
+Arkoprovo Ghosh<br/>
+😑
+Dead wearing chips?
+
+7:09pm
+Tuhin Jana<br/>
+died after chipping, not because of it<br/>
+but scratch that
+
+7:09pm
+Arkoprovo Ghosh<br/>
+Yea
+
+7:10pm<br/>
+Tuhin Jana
+its better 2 reuse it on new people being born after deleting indiv
+
+7:10pm
+Arkoprovo Ghosh<br/>
+Yes
+
+7:12pm
+Tuhin Jana<br/>
+i was more up for manual labour unless its a safety issue, we dnt need 2 make more lazy potatoes like me<br/>
+the same way i'm more up for manual gear shift than automatic<br/>
+cuz it puts more load on the brain, making it stronger
+
+7:14pm
+Arkoprovo Ghosh<br/>
+Ok ... First thing ... Stop believing games so much .. some ideas are good, but that doesn't mean the whole thing's need to be followed because the whole idea may not work as expected<br/>
+Machines won't rebel .. you know that
+
+7:20pm
+Tuhin Jana<br/>
+u'v seen wall-e movie ? i dnt want humans 2 become fat lazy can't do anything without machines kind
+
+7:24pm
+Arkoprovo Ghosh<br/>
+Trust me they won't
+
+7:24pm
+Tuhin Jana
+who wont ? <br/>
+
+7:27pm
+Arkoprovo Ghosh<br/>
+People won't be all fat
+
+7:29pm
+Tuhin Jana<br/>
+u want too much automation, i want 2 put some load on people, so they can b somewhat ready 2 handle stuff when the system fails<br/>
+while not mentioning my hostile AI takeover fears
+
+7:49pm
+Arkoprovo Ghosh<br/>
+Yes ... But I don't think AI will takeover and  .. by machine, I don't always mean AI<br/>
+Simple iot
+
+8:32pm
+Tuhin Jana<br/>
+ok no AI takeover
+but what abt becoming lazy, too dependent on machines ? people will bcome dull
+
+8:42pm
+Arkoprovo Ghosh<br/>
+... well .... for that modify culture<br/>
+like astronomers are way too dependant on machines .. but r they dull or lazy?
+
+8:46pm
+Arkoprovo Ghosh<br/>
+laziness comes only when competition decreases .. so you know .. in the open source world are people lazy? ... no right? .. because simple .. everyone wants their names to shine .. even though there's no pay as in money .. similarly in college fests, school fests, etc. ..... so the thing that needs to be changed is that there needs to be meets of these kind .. in all fields<br/>guaranteed .. no laziness
+
+9:24pm
+Tuhin Jana<br/>
+but we really need 2 keep ability 2 work well enough machines, how wd u do dat ? <br/>
+*but i meant physical fitness, sharp senses & ability 2 work well enuf without machines is important
+
+10:18pm
+Arkoprovo Ghosh<br/>
+do ppl not learn karate? <br/>
+actually when prejudices goes, so does this
+
+10:58pm
+Tuhin Jana<br/>
+martial arts, born through necessity r alive mostly cuz of enthusiasism & less by need(execpt military/spies/police). very lil % is actually willing 2 keep up the hard work 2 stay in it, i will get in wen i'm 60KG & hv some fitness, thats y i go 2 gym<br/>
+but most r not enthu abt it. so if mandatory tasks r physically demanding(set according to indiv's capacity) and develop & maintain motor skills, max of the population will stay fit enuf
+
+11:16pm
+Arkoprovo Ghosh<br/>
+true ... but i feel your nightmares won't come true .. especially in a system ... wait you know about SOLE right?
+
+11:17pm
+Tuhin Jana<br/>
+no, i'm not afraid of AI killing ever1, but we r making a system, we HAVE 2 prepare for its failure too, "what 2 do when it dsnt work"
+
+11:18pm
+Arkoprovo Ghosh<br/>
+shut it down
+
+11:19pm
+Tuhin Jana<br/>
+people hv 2 practice parts of it, also there will b guidelines + training by regular tasks
+
+11:20pm
+Arkoprovo Ghosh<br/>yes .. um  ..read the follows then
+
+11:22pm<br/>http://www.catb.org/esr/faqs/hacker-howto.html
+
+11:48pm
+Tuhin Jana<br/>
+while i read that, find 1 hr 13 mins to listen 2 this https://www.youtube.com/watch?v=VEaXhRb-8e8<br/>The Anoncast Episode 8 - Graham Hancock
+
+11:49pm
+Arkoprovo Ghosh<br/>
+Yup
+Friday,9/30, 2:08pm
+Tuhin Jana<br/>
+& this "i told u so" moment was brought 2 u by me :P<br/>
+r tor link ta 1 page pora hoe6e, game of life got interesting & took some time :P
+
+2:17pm
+Arkoprovo Ghosh<br/>
+Hmm<br/>
+But it also brings into question .. why they died .... It seems like the meteor hit a place near Atlantis it got wiped out; the survivors being very few<br/>
+And again, no past communication between the earlier civilization and the tribes
+
+Saturday,10/1, 11:57am
+<br/>http://beforeitsnews.com/beyond-science/2014/01/the-true-age-of-the-sphinx-and-did-the-earths-axis-tilt-violently-in-2345-bc-2444904.html
+<br/>11:59am
+Arkoprovo Ghosh<br/>
+Can't trust the guy anymore  ... Especially because  .. if he really was a scientist, he'd have written a paper, not a copyrighted book ... I really don't know
+
+4:49pm
+Tuhin Jana<br/>
+now i doubt him too<br/>
+but still he did hv a point, the "civilized" r wuss, tribes aint<br/>
+they hv higher survivability<br/>
+let me talk of domestication<br/>
+dogs hv devolved, ears less sensitive, r defeated by wolves in puzzle solving, puts human 1st<br/>
+my cat is independent, she can get her own food even if we weren't there 2 feed her. so she has us for food security, can persuade us 2 give her what she wants, but she can live on her own. no 1 gets 2 stay in her territory uninvited<br/>
+i want this mix of ability of using tech & doing well enuf without it<br/>
+except for sneaky killers, spies & thieves the tribes r the sharpest
+
+5:35pm
+Arkoprovo Ghosh<br/>
+Yes, but that's due to regal lifestyles .. put a martial artist to those tests and i bet he'll be more efficient than a tribal<br/>
+But u see, lifestyles r changing .. man vs. wild? <br/>
+The problem that u refer to is due to people following the regal cultures of the emperors that ruled us
