@@ -8,7 +8,7 @@ We prefer making the chip wearable than an implant.
 There will be *TWO* data blocks in each chip, they being:
 
 1. **Individual Data (idata)**: Chips record every datum & experience of the individual and depending on user's choices, sends data to the global network. The individual data can't be deleted without the individual giving write access to it. Of course, it can be read. Thus, it'll enable thoughts & experiences to be shared - directly.
-    Experience can be shared individually, like one can send the doctor how one feels. This <a href="https://www.ted.com/talks/greg_gage_how_to_control_someone_else_s_arm_with_your_brain?language=en">TED-Talk</a> & <a href="">Youtube</a> gives a sketchy idea of how. The recipient can tone it down or up as needed.
+    Experience can be shared individually, like one can send the doctor how one feels. This <a href="https://www.ted.com/talks/greg_gage_how_to_control_someone_else_s_arm_with_your_brain?language=en">TED-Talk</a> & <a href="https://youtu.be/rSQNi5sAwuc">Youtube</a> gives a sketchy idea of how. The recipient can tone it down or up as needed.
 
 	Or it may be shared globally through world data, described below.
 		
