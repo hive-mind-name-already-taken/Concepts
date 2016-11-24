@@ -33,6 +33,12 @@ Notes:-
 - Improving the security & removing any glitches - technological or conceptual.
 - Testing alpha & beta versions post simulations in small user groups
 - Obtaining as similar as possible results using current technology such as social media (one which will be programed here)
+					
+						-on the side we record every word in every language, written or not + tracing the words back as far as possible
+						-we record all versions of mythologies & histories
+						-we record all DNA/RNA, physiology of every species ever found
+						-we record every archeological findings
+						-not b misguided ny govt. issued versions
 
 ###### Stage 2:
 
